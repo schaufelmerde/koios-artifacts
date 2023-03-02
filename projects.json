@@ -131,6 +131,14 @@
         "dark": "https://www.quixote.systems/wp-content/uploads/2022/06/raw_explorer_logo.png",
         "light": "https://www.quixote.systems/wp-content/uploads/2022/06/raw_explorer_logo.png"
       }
+    },
+    {
+      "text": "RugWatch",
+      "link": "https://rug.watch",
+      "logo": {
+        "dark": "https://www.rug.watch/logo/rugwatch-logo.png",
+        "light": "https://www.rug.watch/logo/rugwatch-logo.png"
+      }
     }
   ]
 }
